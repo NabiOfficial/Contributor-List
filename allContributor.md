@@ -9,3 +9,12 @@
 [Github](www.github.com/ab1123)
 
 [Linkedin](https://www.linkedin.com/in/harsheet-sharma-78a432193/)
+
+---
+
+## Manish Kumar
+### DIT University
+#### I am currently Studying in 3rd year of Bachelor's in Computer Science and Engineering. I am a passionate Full Stack Developer and I love to open Source Contribution.
+[Github](www.github.com/ManishMK1)
+
+[Linkedin](https://www.linkedin.com/in/manish-kumar-899a83252/)
