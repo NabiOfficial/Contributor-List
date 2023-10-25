@@ -35,4 +35,9 @@
 
 [Linkedin](https://www.linkedin.com/in/prajwalgandhi/)
 
+## Shashank Rawat
+### DIT University
+#### I am currently Studying in my 3rd year of Bachelor's in Computer Science and Engineering (Full Stack and DevOps). I am a passionate Full Stack Developer and also an Open Source Contributor.
+[Github](www.github.com/shashank-afk)
+
 
