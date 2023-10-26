@@ -40,4 +40,7 @@
 #### I am currently Studying in my 3rd year of Bachelor's in Computer Science and Engineering (Full Stack and DevOps). I am a passionate Full Stack Developer and also an Open Source Contributor.
 [Github](www.github.com/shashank-afk)
 
-
+## Anivesh Goyal
+### DIT University
+#### I am currently Studying in my 3rd year of Bachelor's of Technology in Information Technology. I am a passionate Frontend Developer and also an Open Source Contributor.
+[Github](www.github.com/aniveshgoyal)
